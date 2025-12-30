@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Senior Product Manager @ Plotly
+- 🔭 Senior Product Manager @ Opslevel
 - 💬 Ask me about business strategy for open source
 - 📫 Personal blog - [mandysidana.github.io](https://mandysidana.github.io)
 
